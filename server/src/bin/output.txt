@@ -1,0 +1,7 @@
+######################################################################
+#####                  Starting processes...                     #####
+[1] Building source file...                                      #####
+[2] Running...                                                   #####
+4
+ParentsTree[(id=5);(id=1);(id=6);(id=7)]
+ConcatStringTree[(LL=0,L=1,"d")]
